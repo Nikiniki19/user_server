@@ -1,0 +1,25 @@
+HTTP Requests in Postman:
+
+-------------------------------
+Method: POST 
+Request Url: localhost:8030/create
+
+
+{
+  "username": "xyz",
+  "email": "xyz@gmail.com",
+  "password": "xyz@123"
+}
+
+
+-------------------------
+
+Method :GET 
+Request URL : localhost:8031/fetch
+
+
+{
+    "id":"49"
+}
+
+--------------------------
